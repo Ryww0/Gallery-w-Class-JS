@@ -1,3 +1,4 @@
+// blbl
 const galery1 = document.querySelector(".galerie1");
 const galery2 = document.querySelector(".galerie2");
 const btn1 = document.querySelector(".btn1");
